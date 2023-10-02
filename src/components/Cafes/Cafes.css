@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Inter';
+    src: url('../../fonts/Inter-Regular.ttf');
+}
+
+.table {
+    font-family:'Inter', sans-serif;
+}
+
+.thead-cafes {
+    background-color: black;
+  }
